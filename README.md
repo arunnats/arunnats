@@ -1,9 +1,10 @@
 I'm Arun Natarajan but I go by Nats, a Cse student, passionate developer, FOSS enthusiast, content creator and lifter based in NIT calicut. I love to explore and create in the world of technology. Here's a bit about me:
 
-- 🔭 I'm proficient in the following languages: C, Java, Python, HTML, CSS, JavaScript and Verilog
-- 🛠️ My skills include : 
+- 🔭 I'm proficient in the following languages: C, C++, Java, Python, HTML, CSS, JavaScript, ShellScript and Verilog
+- 🛠️ My skills include : Front end web development, building GTK based apps using python, hardware modelling, scripting and IOT
 - 🌐 I'm currently working on unbOS, a linux distro focused towards newcomers to the world of Linux preloaded with all the essential engineering software and a focus on security
-
+- 🌐 I'm currently building a GUI hardening script for Ubuntu as a participant for the Smart India Hackathon 2023
+- 🌐 I'm also working on an Arduino based sound visualizer 
 ## About Me
 
 - 💼 Always looking for hackathons and oppertunities to build software
