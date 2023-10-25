@@ -15,6 +15,19 @@ I'm Arun Natarajan but I go by Nats, a Cse student, passionate developer, FOSS e
 - 📫 You can reach me via email at arunnats2004@gmail.com
 - 📫 Linkedin : ![LinkedIn](https://www.linkedin.com/in/arun-natarajan-567539211/)
 
+  
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=arunnats&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=arunnats&hide=php&theme=tokyonight)
+-->
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=arunnats&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=arunnats&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=arunnats&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunnats&hide=php&theme=tokyonight" />
+</a>
+</div>
+
 ![Visitor Count](https://profile-counter.glitch.me/arunnats/count.svg)
 <!--
 **arunnats/arunnats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
