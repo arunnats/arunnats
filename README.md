@@ -13,9 +13,9 @@ I'm Arun Natarajan but I go by Nats, a Cse student, passionate developer, FOSS e
 ## Connect with Me
 
 - 📫 You can reach me via email at arunnats2004@gmail.com
-- 📫 Linkedin : https://www.linkedin.com/in/arun-natarajan-567539211/
+- 📫 Linkedin : ![LinkedIn](https://www.linkedin.com/in/arun-natarajan-567539211/)
 
-![Visitor Count](https : //profile-counter.glitch.me/arunnats/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/arunnats/count.svg)
 <!--
 **arunnats/arunnats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
