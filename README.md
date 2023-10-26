@@ -5,7 +5,7 @@ I'm Arun Natarajan but I go by Nats, a Cse student, passionate developer, FOSS e
 - 🌐 I'm currently working on unbOS, a linux distro focused towards newcomers to the world of Linux preloaded with all the essential engineering software and a focus on security
 - 🌐 I'm currently building a GUI hardening script for Ubuntu as a participant for the Smart India Hackathon 2023
 - 🌐 I'm also working on an Arduino based sound visualizer
-- 📫 Personal site: ![Portfolio](https://arunnats.github.io/portfolioWebsite/)
+- 📫 Personal site: https://arunnats.github.io/portfolioWebsite/
 ## About Me
 
 - 💼 Always looking for hackathons and oppertunities to build software
@@ -15,7 +15,7 @@ I'm Arun Natarajan but I go by Nats, a Cse student, passionate developer, FOSS e
 ## Connect with Me
 
 - 📫 You can reach me via email at arunnats2004@gmail.com
-- 📫 Linkedin : <a href="https://www.linkedin.com/in/arun-natarajan-567539211/"> </a> 
+- 📫 Linkedin : https://www.linkedin.com/in/arun-natarajan-567539211/
 
   
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=arunnats&count_private=true&show_icons=true&theme=tokyonight)
