@@ -15,7 +15,7 @@ I'm Arun Natarajan but I go by Nats, a Cse student, passionate developer, FOSS e
 ## Connect with Me
 
 - 📫 You can reach me via email at arunnats2004@gmail.com
-- 📫 Linkedin : ![LinkedIn](https://www.linkedin.com/in/arun-natarajan-567539211/)
+- 📫 Linkedin : <a href="https://www.linkedin.com/in/arun-natarajan-567539211/"> </a> 
 
   
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=arunnats&count_private=true&show_icons=true&theme=tokyonight)
