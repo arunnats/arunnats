@@ -3,7 +3,7 @@ I'm Arun Natarajan but I go by Nats, a Cse student, passionate developer, FOSS e
 - 🔭 I'm proficient in the following languages: C, C++, Python, HTML, CSS, JavaScript and Bash
 - 🛠️ My skill stack includes : nodeJS, expressJS, MongoDB, EJS, AWS and GCS
 
-- 📫 Personal site: https://arunnats.github.io/portfolioWebsite/
+- 📫 Portfolio: https://arunnats.github.io/
 ## About Me
 
 - 💼 Always looking for hackathons and oppertunities to build software
