@@ -1,7 +1,7 @@
 I'm Arun Natarajan but I go by Nats, a Cse student, passionate developer, FOSS enthusiast, content creator and lifter based in NIT calicut. I love to explore and create in the world of technology. Here's a bit about me:
 
-- 🔭 I'm proficient in the following languages: C, C++, Python, HTML, CSS, JavaScript and Bash
-- 🛠️ My skill stack includes : nodeJS, expressJS, MongoDB, EJS, AWS and GCS
+- 🔭 I'm proficient in the following languages: C, C++, Python, HTML, CSS, JavaScript, Dart and Bash
+- 🛠️ My skill stack includes : nodeJS, expressJS, MongoDB, mySQL, Flutter, EJS, AWS and GCS
 
 - 📫 Portfolio: https://arunnats.github.io/
 ## About Me
