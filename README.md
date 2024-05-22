@@ -3,7 +3,7 @@ I am a web developer, Data Science and Machine Learning Enthusiast, Arduino crea
 I'm working on projects related to Computer architecture and learning about the domains of Computer Vision and Machine Learning.
 
 - 📫 [Portfolio](https://arunnats.github.io)
-- 📨 [Resume](https://rxresu.me/hiarun2004/arun-natarajan)
+- 📨 [Resume](https://www.arunnats.com/public/resume/Arun-Natarajan-Resume.pdf)
   
 ## Connect with Me
 
