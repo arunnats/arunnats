@@ -42,7 +42,7 @@ text, tspan {white-space: pre;}
 <tspan x="420" y="40">arun@nats</tspan>
 <tspan x="420" y="60">——————</tspan>
 <tspan x="420" y="80" class="keyColor">OS</tspan>: <tspan class="valueColor">Debian, iOS</tspan>
-<tspan x="420" y="100" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years</tspan>
+<tspan x="420" y="100" class="keyColor">Uptime</tspan>: <tspan class="valueColor">22 years</tspan>
 <tspan x="420" y="120" class="keyColor">Host</tspan>: <tspan class="valueColor">National Institute of Technology, Calicut</tspan><tspan class="commentColor"> #NITC</tspan>
 <tspan x="420" y="140" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science and Engineering</tspan><tspan class="commentColor"> #CSE</tspan>
 <tspan x="420" y="160" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode 1.91.0</tspan>
